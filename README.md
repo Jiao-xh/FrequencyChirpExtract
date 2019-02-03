@@ -1,2 +1,1 @@
-# FrequencyChirpExtract
-Extracting frequency chirp from Ti:sapph pulsed system
+This code extracts the frequency chirp from a scope trace taken from the photodiode shown in first_measurement.pdf
